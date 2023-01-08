@@ -31,16 +31,13 @@
 			]
 		},
 		{
-			"Name": "OculusVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
-		},
-		{
 			"Name": "EnhancedInput",
 			"Enabled": true
+		},
+		{
+			"Name": "SimpleInstancedSplineMesh",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e847c607fbbe40179ac60000db8955ab"
 		}
 	],
 	"TargetPlatforms": [
